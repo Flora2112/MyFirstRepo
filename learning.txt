@@ -1,0 +1,2 @@
+I have learned a significant amount about the collaborative workflow on GitHub. 
+Specifically, the process of branching, committing changes locally, and then opening a pull request from a fork to the original repository has solidified my understanding of how developers manage contributions to large projects.
